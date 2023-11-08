@@ -40,9 +40,9 @@ We implement robust backup strategies for the deployed model and embark on a jou
 ## Project Demo
 For a live demonstration of the IPL Win Probability Predictor, visit our [Heroku deployment](#) and experience the future of cricket match prediction!
 Following image shows the win probability for a match being played in Chennai where RCB chases a whopping target of 180, and their winning probability at this instant(shown in the image) is 57%<br>
-![demo](/resources/demo.png)<br>
+![Alt text](image-2.png)<br>
 However, if we change the venue of the match from Chennai to Bengaluru, the win percentage hikes from a mere 57% to massive 88%.<br>
-![Alt text](image.png)
+![Alt text](image-3.png)<br>
 <!-- ![demo2](/resources/demo2.png)<br> -->
 
 
