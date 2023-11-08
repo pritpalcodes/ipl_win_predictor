@@ -1,5 +1,5 @@
 # IPL Win Probability Predictor
-![IPL Logo](https://example.com/ipl_logo.png)
+
 ## Project Inspiration 
 
 Inspired by the transformative power of data analytics as depicted in the movie "MONEYBALL," we embarked on a journey to redefine the face of cricket. This project draws inspiration from the concept of data-driven decision-making in sports, aiming to predict the outcome of IPL cricket matches by leveraging advanced data analysis.
@@ -39,9 +39,12 @@ We implement robust backup strategies for the deployed model and embark on a jou
 
 ## Project Demo
 For a live demonstration of the IPL Win Probability Predictor, visit our [Heroku deployment](#) and experience the future of cricket match prediction!
+<video width="320" height="240" controls>
+  <source src="C:\Users\PRITPAL SINGH\Desktop\Coding\python\ipl_win_predictor.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## References
-
 This project is powered by the following essential resources:
 - The video tutorial: [CampusX IPL Win Predictor](https://youtu.be/Ok_zkfWC0gI?si=cwa8bihQgTV0gI4v):
 - The source of the IPL match data: [Kaggle IPL Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set): 
