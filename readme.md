@@ -28,7 +28,7 @@ We meticulously cherry-pick the most pertinent columns, such as stadium, target 
 #### 6. Model Training 
 We select an appropriate machine learning model, divide the data into training and testing sets, and proceed to train the model. The model choice and training process are carefully aligned with the dataset's characteristics.
 
-#### 7. Model Deployment
+#### 7. Model Deployment :
 Our trained model finds a new home on Heroku, making it readily accessible to users for predicting match win probabilities.
 
 #### 8. Testing 
@@ -41,8 +41,9 @@ We implement robust backup strategies for the deployed model and embark on a jou
 For a live demonstration of the IPL Win Probability Predictor, visit our [Heroku deployment](#) and experience the future of cricket match prediction!
 Following image shows the win probability for a match being played in Chennai where RCB chases a whopping target of 180, and their winning probability at this instant(shown in the image) is 57%<br>
 ![demo](/resources/demo.png)<br>
-However, if we change the venue of the match from Chennai to Bengaluru, the win percentage hikes from a mere 57% to massive 88%.
-![demo2](/resources/demo2.png)<br>
+However, if we change the venue of the match from Chennai to Bengaluru, the win percentage hikes from a mere 57% to massive 88%.<br>
+![Alt text](image.png)
+<!-- ![demo2](/resources/demo2.png)<br> -->
 
 
 ## References
